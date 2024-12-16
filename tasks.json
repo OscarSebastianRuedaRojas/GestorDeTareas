@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Terminar informe de ventas",
+        "description": "Preparar y enviar el informe mensual de ventas al gerente",
+        "completed": false
+    },
+    {
+        "title": "Revision de correos electronicos",
+        "description": "Responder a los correos mas importantes y organizar la bandeja",
+        "completed": true
+    },
+    {
+        "title": "Llamada con el proveedor",
+        "description": "Discutir los terminos de entrega de los nuevos productos",
+        "completed": false
+    },
+    {
+        "title": "Actualizar la base de datos",
+        "description": "Agregar los datos de nuevos clientes al sistema CRM",
+        "completed": false
+    },
+    {
+        "title": "Planificar la reunion semanal",
+        "description": "Crear la agenda para la reunion del equipo el lunes",
+        "completed": true
+    },
+    {
+        "title": "Ejercicio matutino",
+        "description": "Hacer 30 minutos de cardio antes de empezar el dia",
+        "completed": true
+    },
+    {
+        "title": "Preparar presentacion del proyecto",
+        "description": "Disenar diapositivas y recopilar informacion clave para el cliente",
+        "completed": false
+    },
+    {
+        "title": "Comprar suministros de oficina",
+        "description": "Adquirir papel, boligrafos y otros materiales necesarios",
+        "completed": true
+    }
+]
